@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482848365590",
+    "project_id": "flixid-519b4",
+    "storage_bucket": "flixid-519b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482848365590:android:c9dcd7a16f4104b1c26937",
+        "android_client_info": {
+          "package_name": "com.delvin.flixid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB9oGnf9t6j2TpFZ6QM-1AbkbEe7KatkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
